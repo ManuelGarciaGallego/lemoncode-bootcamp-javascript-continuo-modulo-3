@@ -1,1 +1,1 @@
-# lemoncode-bootcamp-javascript-continuo-modulo-3
+Prácticas del bootcamp javascript continuo lemoncode - Módulo 3 - Operadores y flujos de control.
